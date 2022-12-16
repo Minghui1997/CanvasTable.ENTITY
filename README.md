@@ -5,4 +5,4 @@ Download demo : https://github.com/MingHui1997/CanvasTable.ENTITY-Game-Demo
 Download source : https://github.com/MingHui1997/CanvasTable.ENTITY_Source
 
 
-CanvasTable for HTML5 : 
+CanvasTable for HTML5 : https://github.com/MingHui1997/CanvasTable.JS
