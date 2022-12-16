@@ -3,3 +3,6 @@ CanvasTable.ENTITY(Alpha) is a flexible and efficient cross-platform multimedia 
 Download demo : https://github.com/MingHui1997/CanvasTable.ENTITY-Game-Demo
 
 Download source : https://github.com/MingHui1997/CanvasTable.ENTITY_Source
+
+
+CanvasTable for HTML5 : 
